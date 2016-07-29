@@ -1,0 +1,15 @@
+[
+{
+  "modid": "sccraftingrunes",
+  "name": "SeriousCreeper's Crafting Runes",
+  "description": "Crafting Materials",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SeriousCreeper"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
