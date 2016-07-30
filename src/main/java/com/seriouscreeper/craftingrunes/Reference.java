@@ -6,8 +6,8 @@ public class Reference {
 	public static final String VERSION = "1.0";
 	public static final String ACCEPTED_VERSIONS = "[1.9.4,1.10.2]";
 	
-	public static final String CLIENT_PROXY_CLASS = "com.seriouscreeper.craftingmats.proxy.ClientProxy";
-	public static final String SERVER_PROXY_CLASS = "com.seriouscreeper.craftingmats.proxy.ServerProxy";
+	public static final String CLIENT_PROXY_CLASS = "com.seriouscreeper.craftingrunes.proxy.ClientProxy";
+	public static final String SERVER_PROXY_CLASS = "com.seriouscreeper.craftingrunes.proxy.ServerProxy";
 	
 	public static enum CraftingMatsItems {
 		COMMON_MAT("common_mat", "ItemCommonMat"),

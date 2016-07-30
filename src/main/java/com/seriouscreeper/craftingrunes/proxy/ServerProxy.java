@@ -1,4 +1,4 @@
-package com.seriouscreeper.craftingmats.proxy;
+package com.seriouscreeper.craftingrunes.proxy;
 
 public class ServerProxy implements CommonProxy {
 

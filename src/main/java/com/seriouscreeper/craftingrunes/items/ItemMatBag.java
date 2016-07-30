@@ -1,11 +1,11 @@
-package com.seriouscreeper.craftingmats.items;
+package com.seriouscreeper.craftingrunes.items;
 
 import java.util.List;
 
-import com.seriouscreeper.craftingmats.init.ModItems;
 import com.seriouscreeper.craftingrunes.ConfigHandler;
 import com.seriouscreeper.craftingrunes.CraftingMats;
 import com.seriouscreeper.craftingrunes.Reference;
+import com.seriouscreeper.craftingrunes.init.ModItems;
 
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraft.entity.item.EntityItem;

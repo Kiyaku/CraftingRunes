@@ -1,11 +1,11 @@
-package com.seriouscreeper.craftingmats.init;
+package com.seriouscreeper.craftingrunes.init;
 
-import com.seriouscreeper.craftingmats.items.ItemCommonMat;
-import com.seriouscreeper.craftingmats.items.ItemLegendaryMat;
-import com.seriouscreeper.craftingmats.items.ItemMatBag;
-import com.seriouscreeper.craftingmats.items.ItemRareMat;
-import com.seriouscreeper.craftingmats.items.ItemUncommonMat;
 import com.seriouscreeper.craftingrunes.Reference;
+import com.seriouscreeper.craftingrunes.items.ItemCommonMat;
+import com.seriouscreeper.craftingrunes.items.ItemLegendaryMat;
+import com.seriouscreeper.craftingrunes.items.ItemMatBag;
+import com.seriouscreeper.craftingrunes.items.ItemRareMat;
+import com.seriouscreeper.craftingrunes.items.ItemUncommonMat;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;

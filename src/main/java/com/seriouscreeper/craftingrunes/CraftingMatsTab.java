@@ -1,6 +1,6 @@
 package com.seriouscreeper.craftingrunes;
 
-import com.seriouscreeper.craftingmats.init.ModItems;
+import com.seriouscreeper.craftingrunes.init.ModItems;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;

@@ -1,4 +1,4 @@
-package com.seriouscreeper.craftingmats.items;
+package com.seriouscreeper.craftingrunes.items;
 
 import com.seriouscreeper.craftingrunes.CraftingMats;
 import com.seriouscreeper.craftingrunes.Reference;

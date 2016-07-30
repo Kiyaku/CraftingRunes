@@ -2,8 +2,8 @@ package com.seriouscreeper.craftingrunes;
 
 import java.io.File;
 
-import com.seriouscreeper.craftingmats.init.ModItems;
-import com.seriouscreeper.craftingmats.proxy.CommonProxy;
+import com.seriouscreeper.craftingrunes.init.ModItems;
+import com.seriouscreeper.craftingrunes.proxy.CommonProxy;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;

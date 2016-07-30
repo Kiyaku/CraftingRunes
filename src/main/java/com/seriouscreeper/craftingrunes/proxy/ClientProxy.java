@@ -1,6 +1,6 @@
-package com.seriouscreeper.craftingmats.proxy;
+package com.seriouscreeper.craftingrunes.proxy;
 
-import com.seriouscreeper.craftingmats.init.ModItems;
+import com.seriouscreeper.craftingrunes.init.ModItems;
 
 public class ClientProxy implements CommonProxy {
 
