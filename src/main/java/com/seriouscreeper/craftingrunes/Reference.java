@@ -3,7 +3,7 @@ package com.seriouscreeper.craftingrunes;
 public class Reference {
 	public static final String MOD_ID = "sccraftingrunes";
 	public static final String NAME = "SeriousCreeper's Crafting Runes";
-	public static final String VERSION = "1.0";
+	public static final String VERSION = "1.1";
 	public static final String ACCEPTED_VERSIONS = "[1.9.4,1.10.2]";
 	
 	public static final String CLIENT_PROXY_CLASS = "com.seriouscreeper.craftingrunes.proxy.ClientProxy";

@@ -35,7 +35,7 @@ public class ConfigHandler {
 		CommonChance = config.getInt("commonWeight", category, 60, 0, 100, "");
 		UncommonChance = config.getInt("uncommonWeight", category, 30, 0, 100, "");
 		RareChance = config.getInt("rareWeight", category, 10, 0, 100, "");
-		LegendaryChance = config.getInt("legendaryWeight", category, 2, 0, 100, "");
+		LegendaryChance = config.getInt("legendaryWeight", category, 1, 0, 100, "");
 		
 		category = "Amounts";
 		config.addCustomCategoryComment(category, "How many runes each rarity drops");
