@@ -48,8 +48,6 @@ public class ItemMatBag extends Item {
 			}
 		}
 		
-		System.out.println("Next Item Index: " + index);
-			
 		switch(index) {
 		case 0:
 			stack = new ItemStack(ModItems.commonMat, itemRand.nextInt(ConfigHandler.MaxCommonMats) + ConfigHandler.MinCommonMats);

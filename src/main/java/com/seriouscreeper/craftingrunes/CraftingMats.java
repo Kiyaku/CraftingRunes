@@ -41,13 +41,10 @@ public class CraftingMats {
 	
 	@EventHandler
 	public void init(FMLInitializationEvent event) {
-		System.out.println("Init");
-		
 		proxy.init();
 	}
 	
 	@EventHandler
 	public void postInit(FMLPostInitializationEvent event) {
-		System.out.println("Post Init");
 	}
 }
